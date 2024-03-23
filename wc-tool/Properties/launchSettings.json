@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "wc-tool": {
+      "commandName": "Project",
+      "commandLineArgs": "-f test.txt"
+    }
+  }
+}
